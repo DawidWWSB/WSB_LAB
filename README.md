@@ -1,0 +1,1 @@
+Wszystkie zadania włącznie z klasyfikacją grup znajdują się w tym repozytorium.
