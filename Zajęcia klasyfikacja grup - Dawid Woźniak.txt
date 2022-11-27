@@ -1,0 +1,21 @@
+I grupa danych:
+	• Inne niż biznesowe
+		Imię i nazwisko
+		Dane biometryczne, np. odcisk palca
+		Numer karty debetowej
+	• Wewnętrzne
+		ID pracownika
+	• Publiczne
+	• Ogólne
+	• Poufne
+
+II grupa danych:
+	• Inne niż biznesowe
+		Imię i nazwisko
+		Zawód
+		Historia choroby
+	• Wewnętrzne
+		Nazwa stanowiska
+	• Publiczne
+	• Ogólne
+	• Poufne
